@@ -1,0 +1,4 @@
+repository "Apple Picker@jkeus_sdsu@cloud"
+  path "/"
+    br "/main"
+    co "/main"

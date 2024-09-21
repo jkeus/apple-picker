@@ -1,0 +1,67 @@
+# Ignore Unity generated files
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+MemoryCaptures/
+
+# Ignore Asset Store tools
+Assets/AssetStoreTools*
+
+# Ignore VSCode settings and generated files
+.vscode/
+*.code-workspace
+
+# Ignore Visual Studio / MonoDevelop generated files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+# Ignore Rider and JetBrains files
+.idea/
+*.sln.iml
+
+# Ignore other OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Ignore crash and debug logs
+crash_log.txt
+stack_trace.log
+
+# Ignore build artifacts and temporary files
+*.apk
+*.aab
+*.unitypackage
+*.bak
+*.orig
+
+# Ignore Plastic SCM files (if you're using it)
+.plastic/
+
+# Ignore user-specific files
+.vs/
+.vsconfig
+
+# Ignore configuration files
+ignore.conf
+
